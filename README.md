@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+

@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋, my name is João Francisco Botas
+#### Data Science Master's student at ISCTE
+![Data Science Master's student at ISCTE]()
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoniFB03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joaof-botas/)  
+
+
 
 <!--
 **JoniFB03/JoniFB03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

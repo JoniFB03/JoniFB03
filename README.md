@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: My GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats-joao-botas-projects.vercel.app/api?username=JoniFB03&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoniFB03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="140" alt="languages graph"  />
+  <img align="left" height="180" alt="GitHub Stats" src="https://github-readme-stats-joao-botas-projects.vercel.app/api?username=JoniFB03&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoniFB03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="180" alt="languages graph"  />
 
 </details>
 

@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+  <summary>:zap: My GitHub Stats</summary>
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.0.0](https://github.com/boladouro/pfacd/releases/tag/relatorio) in [boladouro/pfacd](https://github.com/boladouro/pfacd)
 <!--END_SECTION:activity-->
+</details>
 

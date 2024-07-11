@@ -1,5 +1,6 @@
-### Hi there 👋, my name is João Francisco Botas
-#### Data Science Master's student at ISCTE
+### Hi there 👋, my name is João Francisco Botas 🥾
+#### Master's Data Science student at ISCTE
+**Olá!** I’m from Portugal 🇵🇹 and currently pursuing a Master’s degree in Data Science at ISCTE. I’m passionate about exploring new technologies and areas like Machine Learning and Artificial Intelligence. I’m excited to learn, collaborate, and contribute to open-source projects!
 <!--![Data Science Master's student at ISCTE]()-->
 
 
@@ -11,14 +12,35 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning R Shiny and improving my TensorFlow knowledge
+- 💬 Ask me about EDA, ML or whatever i can help in Data Science field
+- 📫 How to reach me: 
+<p>
+ <a href="https://www.linkedin.com/in/joaof-botas"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ <a href="mailto:jfbotas7@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+ <a href="mailto:jfmgs3@iscte-iul.pt"><img src="https://img.shields.io/badge/Institutional_email_(ISCTE)--_.svg?style=social&logo=outlook" alt="outlook"></a>
+</p>
+- ⚡ Fun fact: My pfp is AI generated :)
 -->
+
+<h2></h2>
+
+<img align="right" height="200" width="300" alt="" src="https://github.com/JoniFB03/JoniFB03/blob/main/chewbacca-nod.gif" />
+
+- 🌱 I’m currently learning R Shiny and improving my TensorFlow knowledge
+  
+- 💬 Ask me about EDA, ML or whatever i can help in Data Science field
+  
+- 📫 How to reach me: 
+<p align="center">
+ <a href="https://www.linkedin.com/in/joaof-botas"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin " alt="LinkedIn"></a>
+ <a href="mailto:jfbotas7@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+ <a href="mailto:jfmgs3@iscte-iul.pt"><img src="https://img.shields.io/badge/Institutional_email_(ISCTE)--_.svg?style=social&logo=outlook" alt="outlook"></a>
+</p>
+
+- ⚡ Fun fact: I love Star Wars world and my pfp is AI generated :)
+
+<h2></h2>
 
 <details open>
   <summary>:brain: My Skills</summary>
@@ -36,15 +58,16 @@ Here are some ideas to get you started:
   </div>
 </details>
 
-<details open>
+<details>
   <summary>:zap: My GitHub Stats</summary>
   <br/>
   <img align="left" height="180" alt="GitHub Stats" src="https://github-readme-stats-joao-botas-projects.vercel.app/api?username=JoniFB03&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE600&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoniFB03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="180" alt="languages graph"  />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoniFB03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
-</details open>
-
-<details open>
+<details>
   <summary>:bar_chart: My GitHub Activity</summary>
   <br/>
 <!--START_SECTION:activity-->
@@ -52,9 +75,10 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 </details>
 
- <summary><h2>📂 Bachelor's Degree Projects</h2></summary>
+ <h2 align="center">📂 Bachelor's Degree Projects</h2>
  <p align="left">
     <a href="https://github.com/JoniFB03/Projeto-aplicado-CD-I"><img width="278" src="https://github-readme-stats-joao-botas-projects.vercel.app/api/pin/?username=JoniFB03&repo=Projeto-aplicado-CD-I&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projeto-aplicado-CD-I"></a>
 
 
 <a href="https://github.com/JoniFB03?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
